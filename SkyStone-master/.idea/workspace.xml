@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0086681f-42e4-46c3-b768-2073a7b33809" name="Default Changelist" comment="" />
+    <list default="true" id="d240c550-c237-4769-a44d-cb1dc3ce12cb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -19,20 +23,26 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SkyStone-master">
+      <favorite_root url="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode" module="TeamCode" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="480" />
-    <option name="y" value="324" />
-    <option name="width" value="699" />
-    <option name="height" value="744" />
-  </component>
-  <component name="ProjectId" id="1hcMkH10FSPw1yF9JUmL5YbzOqx" />
+  <component name="ProjectId" id="1hcOkVoxRjAzmEJeNBoOSlmmO5c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,11 +50,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="ef8814557f81cdb3" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-11T18:34:06.919Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FtcRobotController-master/FtcRobotController-master" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.firstinspires.ftc.teamcode" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -54,7 +70,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeamCode" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="TeamCode" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="TeamCode" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -111,28 +127,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0086681f-42e4-46c3-b768-2073a7b33809" name="Default Changelist" comment="" />
-      <created>1600305469729</created>
+      <changelist id="d240c550-c237-4769-a44d-cb1dc3ce12cb" name="Default Changelist" comment="" />
+      <created>1600307056880</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600305469729</updated>
+      <updated>1600307056880</updated>
     </task>
     <servers />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="149" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600906884775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="149" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600906884775" />
+    <state x="395" y="239" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602119163059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="239" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1602119163059" />
+    <state x="475" y="141" key="FileChooserDialogImpl" timestamp="1602719966016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602719966016" />
+    <state width="1286" height="162" key="GridCell.Tab.0.bottom" timestamp="1602119343924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602119343924" />
+    <state width="1286" height="162" key="GridCell.Tab.0.center" timestamp="1602119343924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602119343924" />
+    <state width="1286" height="162" key="GridCell.Tab.0.left" timestamp="1602119343923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602119343923" />
+    <state width="1286" height="162" key="GridCell.Tab.0.right" timestamp="1602119343924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602119343924" />
+    <state x="122" y="144" width="1146" height="485" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602439858737">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="122" y="144" width="1146" height="485" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1602439858737" />
+    <state x="122" y="144" width="1146" height="485" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601237096847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="122" y="144" width="1146" height="485" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1601237096847" />
   </component>
 </project>
